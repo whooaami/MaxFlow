@@ -1,2 +1,2 @@
 # MaxFlow
-The Ford-Fulkerson algorithm
+Ford-Fulkerson Algorithm for Maximum Flow Problem
